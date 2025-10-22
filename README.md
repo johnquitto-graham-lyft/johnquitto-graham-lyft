@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnquitto-graham-lyft
 - 👀 I’m interested in ... Distributed Systems and High performant computing
-- 🌱 I’m currently learning ... AI/C++
+- 🌱 I’m currently learning ... Gurobi and HPC
 - 💞️ I’m looking to collaborate on ... Anything Lyft
 - 📫 How to reach me ... Slack!
 - 😄 Pronouns: ... (He/Him)
